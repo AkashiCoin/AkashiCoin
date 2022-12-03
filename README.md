@@ -33,13 +33,13 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 847 Contributions in the Year 2022
+> 🏆 848 Contributions in the Year 2022
  > 
 > 📦 151.0 kB Used in GitHub's Storage 
  > 
@@ -65,8 +65,8 @@ Monday       60 commits     ██░░░░░░░░░░░░░░░�
 Tuesday      190 commits    ███████░░░░░░░░░░░░░░░░░░   29.6% 
 Wednesday    128 commits    █████░░░░░░░░░░░░░░░░░░░░   19.94% 
 Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-Friday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+Friday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
+Saturday     69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
 Sunday       45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
 
 ```
@@ -78,16 +78,18 @@ Sunday       45 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 45 mins        ████████████████████████░   98.22% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 47 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+proxy                    1 hr 46 mins        ████████████████████████░   98.78% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 47 mins        █████████████████████████   100.0%
 
 ```
 
@@ -104,5 +106,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2022 18:44:38 UTC
+ Last Updated on 03/12/2022 18:45:23 UTC
 <!--END_SECTION:waka-->
