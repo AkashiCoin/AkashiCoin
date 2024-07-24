@@ -33,8 +33,6 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2011%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-267.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -47,45 +45,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-🌆 Daytime                154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-🌃 Evening                233 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-🌙 Night                  872 commits         █████████████████░░░░░░░░   68.82 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Tuesday                  183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Thursday                 183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Sunday                   197 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -99,5 +58,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2024 18:40:30 UTC
+ Last Updated on 24/07/2024 18:43:18 UTC
 <!--END_SECTION:waka-->
