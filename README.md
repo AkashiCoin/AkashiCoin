@@ -33,7 +33,9 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-303.8%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C368%20hrs%2056%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-311.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -45,6 +47,45 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+🌆 Daytime                278 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+🌃 Evening                313 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+🌙 Night                  996 commits         ███████████████░░░░░░░░░░   61.86 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Tuesday                  228 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Wednesday                222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Thursday                 213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Friday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Saturday                 204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Sunday                   243 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -58,5 +99,5 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 18:46:07 UTC
+ Last Updated on 02/12/2024 18:49:06 UTC
 <!--END_SECTION:waka-->
