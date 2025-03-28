@@ -33,11 +33,15 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-684.0%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C388%20hrs%2045%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-695.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 175.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,6 +49,47 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+🌆 Daytime                436 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+🌃 Evening                442 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+🌙 Night                  1168 commits        ██████████████░░░░░░░░░░░   54.10 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   346 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Tuesday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Wednesday                289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Thursday                 218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Friday                   358 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Saturday                 280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   14 mins             ███████████████████░░░░░░   75.62 % 
+Text                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+
+🔥 Editors: 
+VS Code                  19 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+ipbest                   17 mins             ██████████████████████░░░   86.90 % 
+ip-scanner               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+
+💻 Operating System: 
+Windows                  19 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -58,5 +103,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2025 18:48:19 UTC
+ Last Updated on 28/03/2025 18:50:15 UTC
 <!--END_SECTION:waka-->
