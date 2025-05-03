@@ -33,13 +33,13 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C388%20hrs%2045%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-740.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 175.0 kB Used in GitHub's Storage 
- > 
-> 🏆 128 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,6 +47,45 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+🌆 Daytime                537 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+🌃 Evening                530 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+🌙 Night                  1235 commits        █████████████░░░░░░░░░░░░   50.12 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Thursday                 230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Friday                   400 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Sunday                   401 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -60,5 +99,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 18:48:50 UTC
+ Last Updated on 03/05/2025 18:46:50 UTC
 <!--END_SECTION:waka-->
