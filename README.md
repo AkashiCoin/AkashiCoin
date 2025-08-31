@@ -33,13 +33,15 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2010%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-353.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 175.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 256 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,6 +49,45 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+🌆 Daytime                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌃 Evening                325 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+🌙 Night                  1275 commits        ████████████████░░░░░░░░░   64.52 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   295 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Tuesday                  302 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Wednesday                275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Thursday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Friday                   324 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Saturday                 256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Sunday                   303 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -60,5 +101,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 18:45:45 UTC
+ Last Updated on 31/08/2025 18:46:34 UTC
 <!--END_SECTION:waka-->
