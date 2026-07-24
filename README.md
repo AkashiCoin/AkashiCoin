@@ -39,7 +39,7 @@
 
 > 📦 175.2 kB Used in GitHub's Storage 
  > 
-> 🏆 207 Contributions in the Year 2026
+> 🏆 208 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,54 +47,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-🌃 Evening                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-🌙 Night                  1618 commits        ████████████████░░░░░░░░░   65.01 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Wednesday                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Thursday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Friday                   397 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Saturday                 322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Sunday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      16 hrs 45 mins      █████████████████████░░░░   83.93 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-XML                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Git                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-
-🔥 Editors: 
-Claude Code              11 hrs 23 mins      ██████████████░░░░░░░░░░░   57.08 % 
-Visual Studio            8 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.92 % 
-
-🐱‍💻 Projects: 
-QVision                  19 hrs 10 mins      ████████████████████████░   96.03 % 
-remnawave-node           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-rw-node-go               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-一维码导入                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-auto-work                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-
-💻 Operating System: 
-Windows                  19 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -108,5 +60,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:57:15 UTC
+ Last Updated on 24/07/2026 19:57:07 UTC
 <!--END_SECTION:waka-->
