@@ -33,13 +33,15 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C289%20hrs%2021%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-377.73%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 175.2 kB Used in GitHub's Storage 
  > 
-> 🏆 208 Contributions in the Year 2026
+> 🏆 209 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,6 +49,52 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+🌃 Evening                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+🌙 Night                  1620 commits        ████████████████░░░░░░░░░   65.03 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Wednesday                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Thursday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Friday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      15 hrs 53 mins      ██████████████████████░░░   87.35 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+INI                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+
+🔥 Editors: 
+Claude Code              9 hrs 27 mins       █████████████░░░░░░░░░░░░   51.98 % 
+Visual Studio            8 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.02 % 
+
+🐱‍💻 Projects: 
+QVision                  17 hrs 46 mins      ████████████████████████░   97.66 % 
+auto-work                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+一维码导入                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+💻 Operating System: 
+Windows                  18 hrs 11 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -60,5 +108,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:57:07 UTC
+ Last Updated on 25/07/2026 19:45:05 UTC
 <!--END_SECTION:waka-->
