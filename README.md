@@ -41,7 +41,7 @@
 
 > 📦 175.2 kB Used in GitHub's Storage 
  > 
-> 🏆 209 Contributions in the Year 2026
+> 🏆 210 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,21 +52,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 🌃 Evening                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-🌙 Night                  1620 commits        ████████████████░░░░░░░░░   65.03 % 
+🌙 Night                  1621 commits        ████████████████░░░░░░░░░   65.05 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Monday                   386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Wednesday                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 Thursday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Friday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Sunday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Friday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Sunday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 ```
 
 
@@ -76,23 +76,23 @@ Sunday                   392 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      15 hrs 53 mins      ██████████████████████░░░   87.35 % 
-Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-INI                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+C++                      8 hrs 11 mins       ████████████████████░░░░░   80.90 % 
+Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 27 mins       █████████████░░░░░░░░░░░░   51.98 % 
-Visual Studio            8 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.02 % 
+Visual Studio            5 hrs 30 mins       ██████████████░░░░░░░░░░░   54.40 % 
+Claude Code              4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.60 % 
 
 🐱‍💻 Projects: 
-QVision                  17 hrs 46 mins      ████████████████████████░   97.66 % 
-auto-work                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-一维码导入                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+QVision                  9 hrs 59 mins       █████████████████████████   98.72 % 
+一维码导入                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+auto-work                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  18 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +108,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:45:05 UTC
+ Last Updated on 26/07/2026 19:45:04 UTC
 <!--END_SECTION:waka-->
