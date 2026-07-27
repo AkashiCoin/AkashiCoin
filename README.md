@@ -33,7 +33,9 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C289%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C029%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-398%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-377.73%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -41,7 +43,7 @@
 
 > 📦 175.2 kB Used in GitHub's Storage 
  > 
-> 🏆 210 Contributions in the Year 2026
+> 🏆 211 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,20 +55,20 @@
 
 ```text
 🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-🌃 Evening                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-🌙 Night                  1621 commits        ████████████████░░░░░░░░░   65.05 % 
+🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+🌃 Evening                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+🌙 Night                  1622 commits        ████████████████░░░░░░░░░   65.06 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Monday                   387 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 Wednesday                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Thursday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Friday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Thursday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Friday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Sunday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Sunday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
 ```
 
 
@@ -76,23 +78,43 @@ Sunday                   393 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 11 mins       ████████████████████░░░░░   80.90 % 
-Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+C++                      5 hrs 12 mins       █████████████████████░░░░   83.93 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 30 mins       ██████████████░░░░░░░░░░░   54.40 % 
-Claude Code              4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.60 % 
+Visual Studio            3 hrs 14 mins       █████████████░░░░░░░░░░░░   52.07 % 
+Claude Code              2 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.93 % 
 
 🐱‍💻 Projects: 
-QVision                  9 hrs 59 mins       █████████████████████████   98.72 % 
-一维码导入                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-auto-work                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+QVision                  6 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 14 mins (52.06%)
+
+✍️ 477 lines written by AI, 32 lines written by hand (93.71% AI-written)
+
+🔤 16,923,364 Input Tokens, 100,598 Output Tokens
+
+💵 $106.57 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 25 AI Prompts
+
+Opus                     653 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.71% of written lines came from AI
+📄 Detailed Prompter — average 523 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +130,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:45:04 UTC
+ Last Updated on 27/07/2026 20:08:01 UTC
 <!--END_SECTION:waka-->
