@@ -33,7 +33,7 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C029%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C031%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-398%20hrs%2019%20mins-blue?style=flat)
 
@@ -43,7 +43,7 @@
 
 > 📦 175.2 kB Used in GitHub's Storage 
  > 
-> 🏆 217 Contributions in the Year 2026
+> 🏆 218 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,6 +51,57 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+🌆 Daytime                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+🌃 Evening                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+🌙 Night                  1629 commits        ████████████████░░░░░░░░░   65.16 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   388 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Tuesday                  368 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Wednesday                347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Thursday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Friday                   399 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Saturday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Sunday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      1 hr 36 mins        ██████████████████████░░░   89.14 % 
+C#                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+Visual Studio            1 hr 47 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+QVision                  1 hr 36 mins        ██████████████████████░░░   89.13 % 
+VisionProDX_2024_12_24_bj11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+VisionProDX              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
+💻 Operating System: 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,5 +115,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:44:43 UTC
+ Last Updated on 04/08/2026 20:10:24 UTC
 <!--END_SECTION:waka-->
