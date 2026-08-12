@@ -43,7 +43,7 @@
 
 > 📦 175.3 kB Used in GitHub's Storage 
  > 
-> 🏆 225 Contributions in the Year 2026
+> 🏆 226 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,20 +55,20 @@
 
 ```text
 🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-🌆 Daytime                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-🌃 Evening                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-🌙 Night                  1635 commits        ████████████████░░░░░░░░░   65.22 % 
+🌆 Daytime                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+🌃 Evening                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+🌙 Night                  1636 commits        ████████████████░░░░░░░░░   65.23 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Tuesday                  369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Thursday                 280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Friday                   400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Monday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Tuesday                  369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Wednesday                349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Thursday                 280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Friday                   400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
 Saturday                 326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Sunday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Sunday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 ```
 
 
@@ -78,47 +78,47 @@ Sunday                   395 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 42 mins       ███████████░░░░░░░░░░░░░░   43.20 % 
-Python                   7 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.20 % 
-Markdown                 2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+C++                      6 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.91 % 
+Python                   3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Batchfile                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 58 mins      █████████████████░░░░░░░░   69.23 % 
-Visual Studio            6 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Claude Code              8 hrs 33 mins       ████████████████░░░░░░░░░   64.33 % 
+Visual Studio            4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.67 % 
 
 🐱‍💻 Projects: 
-1panel                   5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-QVision                  4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-TestProc                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-DLApply                  2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-na-auto                  2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+TestProc                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+DLApply                  2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+na-auto                  2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+QVision                  2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+1panel                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 💻 Operating System: 
-Windows                  20 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 49 mins (83.42%)
+⏱ AI Coding Time: 10 hrs 37 mins (79.85%)
 
-✍️ 4,767 lines written by AI, 270 lines written by hand (94.64% AI-written)
+✍️ 2,804 lines written by AI, 270 lines written by hand (91.22% AI-written)
 
-🔤 161,234,390 Input Tokens, 602,817 Output Tokens
+🔤 69,386,784 Input Tokens, 398,099 Output Tokens
 
-💵 $818.52 Estimated AI Cost This Week
+💵 $354.57 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 147 AI Prompts
+🧠 13 AI Sessions, 118 AI Prompts
 
-Opus                     6,014 lines         █████████████████████████   100.00 % 
+Opus                     3,747 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.64% of written lines came from AI
+🤖 AI-Driven — 91.22% of written lines came from AI
 📝 Concise Prompter — average 377 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.4% of changed lines were hand-edited
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 6.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -134,5 +134,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:35:53 UTC
+ Last Updated on 12/08/2026 19:39:07 UTC
 <!--END_SECTION:waka-->
