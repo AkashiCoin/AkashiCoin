@@ -33,7 +33,7 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C057%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C057%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-416%20hrs%207%20mins-blue?style=flat)
 
@@ -43,7 +43,7 @@
 
 > 📦 175.3 kB Used in GitHub's Storage 
  > 
-> 🏆 237 Contributions in the Year 2026
+> 🏆 238 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +54,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-🌃 Evening                377 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-🌙 Night                  1647 commits        ████████████████░░░░░░░░░   65.38 % 
+🌃 Evening                377 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+🌙 Night                  1648 commits        ████████████████░░░░░░░░░   65.40 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   390 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Tuesday                  370 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Monday                   391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Tuesday                  370 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 Wednesday                350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 Thursday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Friday                   403 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Friday                   403 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 Saturday                 328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Sunday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Sunday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 ```
 
 
@@ -78,25 +78,26 @@ Sunday                   396 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 27 mins        ███████████████████░░░░░░   77.60 % 
-Python                   25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+C++                      2 hrs 2 mins        ████████████████████░░░░░   79.95 % 
+Python                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 11 mins        ████████████████░░░░░░░░░   63.24 % 
-Claude Code              41 mins             █████████░░░░░░░░░░░░░░░░   36.76 % 
+Visual Studio            1 hr 52 mins        ██████████████████░░░░░░░   72.97 % 
+Claude Code              41 mins             ███████░░░░░░░░░░░░░░░░░░   27.03 % 
 
 🐱‍💻 Projects: 
-QVision                  1 hr 31 mins        ████████████████████░░░░░   80.69 % 
-qv_ocr_sim               21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+QVision                  2 hrs 11 mins       █████████████████████░░░░   85.80 % 
+qv_ocr_sim               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 
 💻 Operating System: 
-Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (52.14%)
+⏱ AI Coding Time: 58 mins (38.35%)
 
 ✍️ 635 lines written by AI, 22 lines written by hand (96.65% AI-written)
 
@@ -128,5 +129,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:59:03 UTC
+ Last Updated on 24/08/2026 19:11:02 UTC
 <!--END_SECTION:waka-->
