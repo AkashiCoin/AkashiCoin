@@ -33,9 +33,9 @@
 * [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1040186796&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C068%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C069%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-423%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-377.73%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -43,7 +43,7 @@
 
 > 📦 175.3 kB Used in GitHub's Storage 
  > 
-> 🏆 249 Contributions in the Year 2026
+> 🏆 250 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,19 +56,19 @@
 ```text
 🌞 Morning                114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-🌃 Evening                377 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-🌙 Night                  1656 commits        ████████████████░░░░░░░░░   65.43 % 
+🌃 Evening                377 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌙 Night                  1657 commits        ████████████████░░░░░░░░░   65.44 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Tuesday                  373 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Wednesday                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Monday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Tuesday                  373 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Wednesday                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 Thursday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
 Friday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Sunday                   397 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Saturday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Sunday                   397 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 ```
 
 
@@ -78,51 +78,47 @@ Sunday                   397 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 hrs 17 mins       ██████████████░░░░░░░░░░░   55.58 % 
-Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-XML                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Go                       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+C++                      4 hrs 47 mins       ████████████████░░░░░░░░░   63.05 % 
+XML                      1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+PowerShell               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 4 mins        ████████████████░░░░░░░░░   63.87 % 
-Visual Studio            3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.12 % 
-Unknown Editor           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Claude Code              4 hrs 31 mins       ███████████████░░░░░░░░░░   59.68 % 
+Visual Studio            2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.09 % 
+Unknown Editor           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🐱‍💻 Projects: 
-QVision                  7 hrs 24 mins       ███████████████████░░░░░░   77.97 % 
-claude                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-rw-node-go               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-qtpromise                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-remnawave-node           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+QVision                  6 hrs 26 mins       █████████████████████░░░░   84.91 % 
+claude                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+qtpromise                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Windows                  9 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 22 mins (77.53%)
+⏱ AI Coding Time: 5 hrs 22 mins (70.76%)
 
-✍️ 2,480 lines written by AI, 109 lines written by hand (95.79% AI-written)
+✍️ 2,177 lines written by AI, 104 lines written by hand (95.44% AI-written)
 
-🔤 5,197,413 Input Tokens, 337,190 Output Tokens
+🔤 3,088,731 Input Tokens, 234,686 Output Tokens
 
-💵 $38.81 Estimated AI Cost This Week
+💵 $33.40 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 59 AI Prompts
+🧠 12 AI Sessions, 45 AI Prompts
 
 Opus                     828 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.79% of written lines came from AI
-📄 Detailed Prompter — average 619 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.11% of changed lines were hand-edited
+🤖 AI-Driven — 95.44% of written lines came from AI
+📝 Concise Prompter — average 285 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,5 +134,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 20:57:55 UTC
+ Last Updated on 05/09/2026 20:38:23 UTC
 <!--END_SECTION:waka-->
