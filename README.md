@@ -43,7 +43,7 @@
 
 > 📦 175.3 kB Used in GitHub's Storage 
  > 
-> 🏆 254 Contributions in the Year 2026
+> 🏆 255 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,20 +55,20 @@
 
 ```text
 🌞 Morning                114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+🌆 Daytime                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 🌃 Evening                377 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-🌙 Night                  1660 commits        ████████████████░░░░░░░░░   65.48 % 
+🌙 Night                  1661 commits        ████████████████░░░░░░░░░   65.50 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 Tuesday                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Wednesday                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 Thursday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Friday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Sunday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Friday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Saturday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 ```
 
 
@@ -78,51 +78,53 @@ Sunday                   398 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      7 hrs 31 mins       ██████████████░░░░░░░░░░░   54.22 % 
-Markdown                 3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-XML                      1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-PowerShell               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Markdown                 9 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
+C++                      5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Python                   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+JSON                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Other                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 2 mins        ██████████████░░░░░░░░░░░   57.96 % 
-Visual Studio            4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Codex CLI                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Unknown Editor           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Claude Code              18 hrs 26 mins      ███████████████████░░░░░░   74.71 % 
+Visual Studio            3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Codex CLI                2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Unknown Editor           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-QVision                  10 hrs 30 mins      ███████████████████░░░░░░   75.72 % 
-claude                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-kgk_ocv                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-qtpromise                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+claude                   10 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   41.11 % 
+QVision                  7 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
+Reqable                  2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+rw-node-go               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+rw-node                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 💻 Operating System: 
-Windows                  13 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 24 mins (82.27%)
+⏱ AI Coding Time: 22 hrs 48 mins (92.39%)
 
-✍️ 4,086 lines written by AI, 104 lines written by hand (97.52% AI-written)
+✍️ 4,863 lines written by AI, 96 lines written by hand (98.06% AI-written)
 
-🔤 6,519,833 Input Tokens, 481,522 Output Tokens
+🔤 13,908,251 Input Tokens, 878,118 Output Tokens
 
-💵 $56.16 Estimated AI Cost This Week
+💵 $100.81 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 90 AI Prompts
+🧠 54 AI Sessions, 226 AI Prompts
 
-GPT                      987 lines           ████████████░░░░░░░░░░░░░   47.00 % 
-Opus                     828 lines           ██████████░░░░░░░░░░░░░░░   39.43 % 
-Codex-Cli                285 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+GPT                      1,368 lines         █████████████░░░░░░░░░░░░   53.33 % 
+Opus                     912 lines           █████████░░░░░░░░░░░░░░░░   35.56 % 
+Codex-Cli                285 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.52% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
+🤖 AI-Driven — 98.06% of written lines came from AI
+📝 Concise Prompter — average 208 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.43% of changed lines were hand-edited
+🚀 High AI Trust — 1.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,5 +140,5 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 21:21:13 UTC
+ Last Updated on 09/09/2026 21:07:09 UTC
 <!--END_SECTION:waka-->
